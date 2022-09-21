@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Ielts Dictionary</string>
+    <string name="label_open">open</string>
+    <string name="label_close">close</string>
+    <string name="lb_ielts_dictionary">Ielts Dictionary</string>
+    <string name="level_please_waite">Please waite..</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="level_home">Home</string>
+    <string name="level_favorite">Favorite</string>
+    <string name="level_history">History</string>
+    <string name="level_rate">Rate</string>
+    <string name="level_share">Share</string>
+    <string name="level_other">other</string>
+    <string name="level_listening">Listening</string>
+    <string name="level_reading">Reading</string>
+    <string name="level_writing">Writing</string>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Ielts dictionary/app/src/main/res/drawable/bg_nav_drawer.xml" value="0.1" />
+        <entry key="..\:/Ielts dictionary/app/src/main/res/drawable/ic_favorite.xml" value="0.1005" />
+        <entry key="..\:/Ielts dictionary/app/src/main/res/drawable/ic_history.xml" value="0.1005" />
+        <entry key="..\:/Ielts dictionary/app/src/main/res/drawable/ic_home.xml" value="0.1005" />
+        <entry key="..\:/Ielts dictionary/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1005" />
+        <entry key="..\:/Ielts dictionary/app/src/main/res/drawable/ic_mic.xml" value="0.1005" />
+        <entry key="..\:/Ielts dictionary/app/src/main/res/drawable/ic_rate.xml" value="0.1005" />
+        <entry key="..\:/Ielts dictionary/app/src/main/res/drawable/ic_share.xml" value="0.1005" />
+        <entry key="..\:/Ielts dictionary/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Ielts dictionary/app/src/main/res/layout/fragment_favourite.xml" value="0.1" />
+        <entry key="..\:/Ielts dictionary/app/src/main/res/layout/fragment_history.xml" value="0.11197916666666667" />
+        <entry key="..\:/Ielts dictionary/app/src/main/res/layout/fragment_home.xml" value="0.15885416666666666" />
+        <entry key="..\:/Ielts dictionary/app/src/main/res/layout/fragment_listening.xml" value="0.11197916666666667" />
+        <entry key="..\:/Ielts dictionary/app/src/main/res/layout/fragment_reading.xml" value="0.11197916666666667" />
+        <entry key="..\:/Ielts dictionary/app/src/main/res/layout/fragment_writing.xml" value="0.11197916666666667" />
+        <entry key="..\:/Ielts dictionary/app/src/main/res/layout/item_drawer_header.xml" value="0.1" />
+        <entry key="..\:/Ielts dictionary/app/src/main/res/menu/drawer_menu.xml" value="0.11510416666666666" />
+        <entry key="..\:/Ielts dictionary/app/src/main/res/menu/toolbar_menu.xml" value="0.11510416666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

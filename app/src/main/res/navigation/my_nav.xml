@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/my_nav"
+    app:startDestination="@id/homeFragment2">
+
+    <fragment
+        android:id="@+id/homeFragment2"
+        android:name="com.example.ieltsdictionary.HomeFragment"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_home" >
+        <action
+            android:id="@+id/action_homeFragment2_to_favouriteFragment"
+            app:destination="@id/favouriteFragment" />
+        <action
+            android:id="@+id/action_homeFragment2_to_historyFragment2"
+            app:destination="@id/historyFragment2" />
+        <action
+            android:id="@+id/action_homeFragment2_to_listeningFragment2"
+            app:destination="@id/listeningFragment" />
+        <action
+            android:id="@+id/action_homeFragment2_to_readingFragment"
+            app:destination="@id/readingFragment" />
+        <action
+            android:id="@+id/action_homeFragment2_to_writingFragment"
+            app:destination="@id/writingFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/favouriteFragment"
+        android:name="com.example.ieltsdictionary.FavouriteFragment"
+        android:label="fragment_favourite"
+        tools:layout="@layout/fragment_favourite" />
+    <fragment
+        android:id="@+id/historyFragment2"
+        android:name="com.example.ieltsdictionary.HistoryFragment"
+        android:label="fragment_history"
+        tools:layout="@layout/fragment_history" />
+    <fragment
+        android:id="@+id/listeningFragment"
+        android:name="com.example.ieltsdictionary.ListeningFragment"
+        android:label="fragment_listening"
+        tools:layout="@layout/fragment_listening" />
+    <fragment
+        android:id="@+id/readingFragment"
+        android:name="com.example.ieltsdictionary.ReadingFragment"
+        android:label="fragment_reading"
+        tools:layout="@layout/fragment_reading" />
+    <fragment
+        android:id="@+id/writingFragment"
+        android:name="com.example.ieltsdictionary.WritingFragment"
+        android:label="fragment_writing"
+        tools:layout="@layout/fragment_writing" />
+</navigation>
